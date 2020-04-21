@@ -1,0 +1,16 @@
+---
+title: "Hello World!"
+description: |
+  First post on rohankataria.com
+author: "Rohan Kataria"
+date: 04-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Welcome! This is the first post on [rohankataria.com](https://www.rohankataria.com/).
