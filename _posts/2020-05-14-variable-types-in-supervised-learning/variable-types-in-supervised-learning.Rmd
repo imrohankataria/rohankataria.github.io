@@ -1,12 +1,13 @@
 ---
 title: "Variable Types in Supervised Learning"
 description: |
-  In supervised learning, the data types could be Quantitative, Qualitative or maybe both.
+  In supervised learning, the data types could be Quantitative, Qualitative or maybe both. Learn more...
 author: "Rohan Kataria"
 date: 05-14-2020
 categories:
   - Statistics
   - Everyday Programming
+preview: https://i.imgur.com/wh7FQac.png
 output:
   distill::distill_article:
     self_contained: false
