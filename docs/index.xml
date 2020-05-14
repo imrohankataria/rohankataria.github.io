@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Rohan Kataria</title>
+    <link>https://www.rohankataria.com/</link>
+    <atom:link href="https://www.rohankataria.com/index.xml" rel="self" type="application/rss+xml"/>
+    <description>My Website
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Variable Types in Supervised Learning</title>
+      <dc:creator>Rohan Kataria</dc:creator>
+      <link>https://www.rohankataria.com/posts/2020-05-14-variable-types-in-supervised-learning</link>
+      <description>In supervised learning, the data types could be Quantitative, Qualitative or maybe both.</description>
+      <guid>https://www.rohankataria.com/posts/2020-05-14-variable-types-in-supervised-learning</guid>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <dc:creator>Rohan Kataria</dc:creator>
+      <link>https://www.rohankataria.com/posts/2020-04-20-hello-world</link>
+      <description>First post on rohankataria.com</description>
+      <guid>https://www.rohankataria.com/posts/2020-04-20-hello-world</guid>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

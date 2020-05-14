@@ -1,0 +1,29 @@
+---
+title: "Variable Types in Supervised Learning"
+description: |
+  In supervised learning, the data types could be Quantitative, Qualitative or maybe both.
+author: "Rohan Kataria"
+date: 05-14-2020
+categories:
+  - Statistics
+  - Everyday Programming
+output:
+  distill::distill_article:
+    self_contained: false
+---
+### Wahat is Supervised Learning?
+When we can use the inputs to predict the value of outputs, that is called _supervised learning_. In the statistical literature, the inputs are often called the _predictors_, and in a more classic way can be reffered as _independent variables_. In pattern recognition literature the term _feature_ is preferred. The outputs are called the _responses_, or classicaly the _dependent variables_.
+
+### Variable Types and Terminology
+1. In supervised learning, the data types could be Quantitative, Qualitative or maybe both.
+2. In Qualitative, the output variables are also referred to as _categorical_ or _discrete_ variables as well as _factors_.
+3. The distinction in output type has led to a naming convention for the prediction tasks: _regression_ when we predict quantitative outputs, and _classification_ when we predict qualitative outputs.
+4. Regression and Classification have a lot in common, and in particular, both can be viewed as a task in function approximation.
+5. Inputs also vary in measuremnt types; we can have some of each of qualitative and quantitative input variables. They have also led to distinctions in the types of methods that are used for prediction. 
+6. Third variable type is _ordered categorical_, such as _small_, _medium_, and _large_, where there is an ordering between the values, but no metric notion is appropriate.
+7. Qualitative variables are typically represented numerically by codes. The easiest case is when there are only two classes or categories, such as "success" or "failure", "survived" or "died".
+8. In Qualitative, the most useful and commonly used coding is via _dummy variables_. A K-level/Categorical variable is represented by a vector of K binary variables or bits. (for eg: you're dealing with furnitre data, the type you would consider are "chair", "desk", "couch", and "tables". So there are four possible values for our type variable. To make it numerical we can define a new variable called "chair" that's 1 if the type is chair and 0 otherwise. We will do the same for rest.)
+
+<center>
+![](https://i.pinimg.com/originals/46/b7/5c/46b75ccbb3dc875050c80b7a33a1f719.gif)
+</center>

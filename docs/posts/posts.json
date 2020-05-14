@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2020-05-14-variable-types-in-supervised-learning/",
+    "title": "Variable Types in Supervised Learning",
+    "description": "In supervised learning, the data types could be Quantitative, Qualitative or maybe both.",
+    "author": [
+      {
+        "name": "Rohan Kataria",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-14",
+    "categories": [
+      "Statistics",
+      "Everyday Programming"
+    ],
+    "preview": {},
+    "last_modified": "2020-05-14T17:12:32-04:00"
+  },
+  {
     "path": "posts/2020-04-20-hello-world/",
     "title": "Hello World!",
     "description": "First post on rohankataria.com",
