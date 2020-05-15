@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Welcome! This is the first post on [rohankataria.com](https://www.rohankataria.com/).
+Purpose of this post is to let the readers know about the birth of this website.
