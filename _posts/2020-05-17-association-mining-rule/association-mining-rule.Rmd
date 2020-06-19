@@ -1,0 +1,24 @@
+---
+title: "Association Mining Rule"
+description: |
+  A short description of the post.
+author: "Rohan Kataria"
+date: 05-17-2020
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+1. Choose e-commerce/rerail industry
+2. make lots of projects and posts on e-commerce
+3. keep making shiny apps on ecommerce
+4. make one mega application on r-sshiny combining all ecommerce
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

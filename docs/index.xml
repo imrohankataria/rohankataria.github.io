@@ -7,12 +7,22 @@
     <description>My Website
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Daily Journaling with Shiny</title>
+      <dc:creator>Rohan Kataria</dc:creator>
+      <link>https://www.rohankataria.com/posts/2020-06-19-daily-journalling-with-shiny</link>
+      <description>A short description of the post.</description>
+      <guid>https://www.rohankataria.com/posts/2020-06-19-daily-journalling-with-shiny</guid>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Variable Types in Supervised Learning</title>
       <dc:creator>Rohan Kataria</dc:creator>
       <link>https://www.rohankataria.com/posts/2020-05-14-variable-types-in-supervised-learning</link>
       <description>In supervised learning, the data types could be Quantitative, Qualitative or maybe both. Learn more...</description>
+      <category>Statistics</category>
+      <category>Everyday Programming</category>
       <guid>https://www.rohankataria.com/posts/2020-05-14-variable-types-in-supervised-learning</guid>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       <media:content url="https://i.imgur.com/wh7FQac.png" medium="image" type="image/png"/>

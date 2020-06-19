@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/2020-06-19-daily-journalling-with-shiny/",
+    "title": "Daily Journaling with Shiny",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rohan Kataria",
+        "url": {}
+      }
+    ],
+    "date": "2020-06-19",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-06-19T19:19:16-04:00",
+    "input_file": "daily-journalling-with-shiny.utf8.md"
+  },
+  {
     "path": "posts/2020-05-14-variable-types-in-supervised-learning/",
     "title": "Variable Types in Supervised Learning",
     "description": "In supervised learning, the data types could be Quantitative, Qualitative or maybe both. Learn more...",

@@ -1,0 +1,21 @@
+---
+title: "Daily Journaling with Shiny"
+description: |
+  A short description of the post.
+author: Rohan Kataria
+date: 06-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+My mornings begin with chocolate-flavored casein protein, a pen, and a notebook to plan my day. (EVERY DAY!) I make sure before I write my to-do-list, I start it with gratitude.
+
+"Not only does gratitude make you feel more appreciation for your life, it is the best defense against its evil twin—resentment, which can lead to disastrous things if not kept unchecked."
+
+What are you grateful for today?
+
+PS- I created an RShiny application this morning as my effort to "Everyday Programming." The application stores data in MongoDB (I have recently started using it, and loving it.). The application gives me the ability to look back with just clicks, and it will always be with me. :) 
+
+![Shiny App](https://media-exp1.licdn.com/dms/image/C4D22AQFkXKW2gTAsYg/feedshare-shrink_1280/0?e=1595462400&v=beta&t=hznBygsaisyk962ktY30UD24YDnDcvIU1tvTwU3H-Bc)
+
