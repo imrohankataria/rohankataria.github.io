@@ -5,6 +5,6 @@ description: |
 ---
 [![imrohankataria's Github chart](https://ghchart.rshah.org/imrohankataria)](https://www.github.com/imrohankataria)
 
-Hi there! I'm **Rohan Kataria**, a Data Analytics professional and forever a student. I have decided to start blogging about my interests and journey with R. I will be sharing knowledge related to R, Statistics and their applications in real world. As the journey continues, the journal continues to grow and so this website. Feel free to leave comments on posts. I strongly believe there is always room for improvement in all things, I therefore ask for your criticisms. Thankyou. 
+Hi there! I'm **Rohan Kataria**, a Data Analytics professional and a forever student. I have decided to start blogging about my interests and journey with R. I will be sharing knowledge related to R, Statistics and their applications in real world. As the journey continues, the journal continues to grow and so this website. Feel free to leave comments on posts. I strongly believe there is always room for improvement in all things, I therefore ask for your criticisms. Thankyou. 
 
 My CV can be found [here](data/pdfs/CV.pdf){target="_blank"}.
