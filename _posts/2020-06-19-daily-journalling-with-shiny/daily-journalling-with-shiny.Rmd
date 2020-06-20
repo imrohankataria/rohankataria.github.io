@@ -1,7 +1,7 @@
 ---
 title: "Daily Journaling with Shiny"
 description: |
-  My mornings begin with chocolate-flavored casein protein, a pen, and a notebook to plan my day. (EVERY DAY!) I make sure before I write my to-do-list, I start it with gratitude.
+  See How I use RShiny every day ...
 author: Rohan Kataria
 date: 06-19-2020
 output:
