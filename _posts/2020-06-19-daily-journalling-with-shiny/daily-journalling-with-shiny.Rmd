@@ -1,7 +1,7 @@
 ---
 title: "Daily Journaling with Shiny"
 description: |
-  A short description of the post.
+  My mornings begin with chocolate-flavored casein protein, a pen, and a notebook to plan my day. (EVERY DAY!) I make sure before I write my to-do-list, I start it with gratitude.
 author: Rohan Kataria
 date: 06-19-2020
 output:

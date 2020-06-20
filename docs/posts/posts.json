@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-06-19-daily-journalling-with-shiny/",
     "title": "Daily Journaling with Shiny",
-    "description": "A short description of the post.",
+    "description": "My mornings begin with chocolate-flavored casein protein, a pen, and a notebook to plan my day. (EVERY DAY!) I make sure before I write my to-do-list, I start it with gratitude.",
     "author": [
       {
         "name": "Rohan Kataria",
@@ -12,7 +12,7 @@
     "date": "2020-06-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-06-19T19:19:16-04:00",
+    "last_modified": "2020-06-20T00:07:14-04:00",
     "input_file": "daily-journalling-with-shiny.utf8.md"
   },
   {
@@ -31,7 +31,8 @@
       "Everyday Programming"
     ],
     "preview": "https://i.imgur.com/wh7FQac.png",
-    "last_modified": "2020-05-14T17:26:59-04:00"
+    "last_modified": "2020-05-14T17:26:59-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/2020-04-20-hello-world/",
@@ -46,6 +47,7 @@
     "date": "2020-04-20",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-20T21:53:10-04:00"
+    "last_modified": "2020-04-20T21:53:10-04:00",
+    "input_file": {}
   }
 ]
