@@ -13,9 +13,10 @@
       <dc:creator>Rohan Kataria</dc:creator>
       <link>https://www.rohankataria.com/posts/2020-07-01-storing-api-data-in-a-database</link>
       <description>Learn how to store API data in your database</description>
-      <category>database</category>
+      <category>Database</category>
       <guid>https://www.rohankataria.com/posts/2020-07-01-storing-api-data-in-a-database</guid>
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://www.rohankataria.com/posts/2020-07-01-storing-api-data-in-a-database/images/preview.jpeg" medium="image" type="image/jpeg"/>
     </item>
     <item>
       <title>Daily Journaling with Shiny</title>
@@ -34,7 +35,7 @@
       <category>Everyday Programming</category>
       <guid>https://www.rohankataria.com/posts/2020-05-14-variable-types-in-supervised-learning</guid>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <media:content url="https://i.imgur.com/wh7FQac.png" medium="image" type="image/png"/>
+      <media:content url="https://www.rohankataria.com/posts/2020-05-14-variable-types-in-supervised-learning/images/preview.png" medium="image" type="image/png" width="500" height="378"/>
     </item>
     <item>
       <title>Hello World!</title>
