@@ -7,7 +7,7 @@ date: 05-14-2020
 categories:
   - Statistics
   - Everyday Programming
-preview: https://i.imgur.com/wh7FQac.png
+preview: hpreview: images/preview.png
 output:
   distill::distill_article:
     self_contained: false

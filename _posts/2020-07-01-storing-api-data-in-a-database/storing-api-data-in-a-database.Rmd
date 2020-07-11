@@ -1,0 +1,82 @@
+---
+title: "Storing API Data in a Database"
+description: |
+  Learn how to store API data in your database
+author:
+  - name: Rohan Kataria
+    url: {}
+date: 07-11-2020
+categories:
+  - database
+preview: images/preview.jpg
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    self_contained: false
+---
+## Introduction
+API allows a user to request data straight from a website. Instead of having to download a dataset, you could load it in your console with just a link. (Less Messy Desktop!!) Look here for [Public APIs](https://github.com/public-apis/public-apis#index).
+Today we will talk about pulling data for your data project using an API and storing the data in your database. Yes! You don't have to maintain any file on your desktop.
+
+## Getting API data in R
+Super easy when we want to read a csv file, but when we have to get the API data in our console, we need to install R's **Jsonlite package**. 
+
+I have used [CHRONICLING AMERICA's](https://chroniclingamerica.loc.gov/) public api for this demo.
+
+```{r api_data, eval=FALSE, echo=TRUE}
+library(jsonlite)
+data_web <- fromJSON("https://chroniclingamerica.loc.gov/suggest/titles/?q=Massachusetts")
+data <- as.data.frame(data_web)
+```
+
+## Storing API data in PostgreSQL
+For this operation, we need to install **RPostgreSQL** package.
+
+*More about this package [can be found here.](https://cran.r-project.org/web/packages/RPostgreSQL/index.html)*
+
+```{r postgresql, eval=FALSE, echo=TRUE}
+#Loading required libraries
+library(RPostgreSQL)
+library(DBI)
+library(odbc)
+
+#Credentials
+pw = 'Your Password'
+drv = dbDriver("PostgreSQL")
+con = dbConnect(drv, dbname = "Your Database Name",
+                host = "Your Host", port = 5432,
+                user = "Your User", password = pw)
+
+#Injecting Data in Table
+dbWriteTable(con, "TableName", 
+             value = data, append = TRUE, row.names = FALSE)
+```
+
+## Sotring API data in MongoDB
+For this operation, we need to install **Mongolite** package.
+
+*More about this package [can be found here.](https://cran.r-project.org/web/packages/mongolite/index.html)*
+
+```{r mongodb, eval=FALSE, echo=TRUE}
+#Loading required libraries
+library(mongolite)
+
+#Credentials
+mongo_db_user <- "Your User"
+mongo_db_password <- "Your password"
+mongo_database <- "Your Database"
+mongo_collection <- "Collection Name"
+mongo_clustername <- "Your Cluster Link"
+
+url_path = sprintf("mongodb+srv://%s:%s@%s/admin",
+                   mongo_db_user, mongo_db_password, mongo_clustername)
+mongo_db <- mongo(collection = mongo_collection, db = mongo_database, url = url_path, verbose = TRUE)
+
+#Injecting Data in Collection
+mongo_db$insert(data_web)
+
+```
+
+## Conclusion
+API and Cloud Databases together are a great option to run a project online/on the web. Not just both saves space and memory of your local machine but also gives you a better opportunity to scale and deploy your project into an application and show it to the world.

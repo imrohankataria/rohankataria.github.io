@@ -7,7 +7,16 @@
     <description>My Website
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Storing API Data in a Database</title>
+      <dc:creator>Rohan Kataria</dc:creator>
+      <link>https://www.rohankataria.com/posts/2020-07-01-storing-api-data-in-a-database</link>
+      <description>Learn how to store API data in your database</description>
+      <category>database</category>
+      <guid>https://www.rohankataria.com/posts/2020-07-01-storing-api-data-in-a-database</guid>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Daily Journaling with Shiny</title>
       <dc:creator>Rohan Kataria</dc:creator>
