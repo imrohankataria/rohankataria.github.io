@@ -14,8 +14,8 @@
       "Database"
     ],
     "preview": "posts/2020-07-01-storing-api-data-in-a-database/images/preview.jpeg",
-    "last_modified": "2020-07-11T16:10:08-04:00",
-    "input_file": "storing-api-data-in-a-database.utf8.md"
+    "last_modified": "2020-07-11T16:10:09-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/2020-06-19-daily-journalling-with-shiny/",
@@ -50,7 +50,7 @@
     ],
     "preview": "posts/2020-05-14-variable-types-in-supervised-learning/images/preview.png",
     "last_modified": "2020-07-11T16:10:24-04:00",
-    "input_file": "variable-types-in-supervised-learning.utf8.md",
+    "input_file": {},
     "preview_width": 500,
     "preview_height": 378
   },
