@@ -7,8 +7,8 @@ author:
     url: {}
 date: 07-11-2020
 categories:
-  - database
-preview: images/preview.jpg
+  - Database
+preview: images/preview.jpeg
 output:
   distill::distill_article:
     toc: true
