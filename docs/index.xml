@@ -7,7 +7,27 @@
     <description>My Website
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Building Solutions with R-Shiny</title>
+      <dc:creator>Rohan Kataria</dc:creator>
+      <link>https://www.rohankataria.com/posts/2020-09-23-building-solutions-with-r-shiny</link>
+      <description>Potential Micro-SaaS</description>
+      <category>Solutions</category>
+      <guid>https://www.rohankataria.com/posts/2020-09-23-building-solutions-with-r-shiny</guid>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TidyTuesdays with X-MEN</title>
+      <dc:creator>Rohan Kataria</dc:creator>
+      <link>https://www.rohankataria.com/posts/2020-07-22-tidytuesdays-with-x-men</link>
+      <description>Working on X-MEN Dataset with Tidyverse</description>
+      <category>Everyday Programming</category>
+      <category>Tidyverse</category>
+      <guid>https://www.rohankataria.com/posts/2020-07-22-tidytuesdays-with-x-men</guid>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://www.rohankataria.com/posts/2020-07-22-tidytuesdays-with-x-men/tidytuesdays-with-x-men_files/figure-html5/xmen_speak-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Storing API Data in a Database</title>
       <dc:creator>Rohan Kataria</dc:creator>
