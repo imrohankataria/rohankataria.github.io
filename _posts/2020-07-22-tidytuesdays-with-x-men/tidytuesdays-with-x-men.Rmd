@@ -17,8 +17,10 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-## Introduction
 ## Motivation
+
+The following post is my effort to reproduce the insights originally created by David Robinson in his TidyTuesday Cast. Hope you like it. 
+
 ## Diving into the Dataset
 
 ### Getting Data and Libraries

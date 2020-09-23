@@ -13,8 +13,8 @@
     "categories": [
       "Solutions"
     ],
-    "preview": {},
-    "last_modified": "2020-09-23T15:29:11-04:00",
+    "preview": "posts/2020-09-23-building-solutions-with-r-shiny/media/ETSY.gif",
+    "last_modified": "2020-09-23T16:02:23-04:00",
     "input_file": "building-solutions-with-r-shiny.utf8.md"
   },
   {
@@ -33,7 +33,7 @@
       "Tidyverse"
     ],
     "preview": "posts/2020-07-22-tidytuesdays-with-x-men/tidytuesdays-with-x-men_files/figure-html5/xmen_speak-1.png",
-    "last_modified": "2020-08-04T15:18:40-04:00",
+    "last_modified": "2020-09-23T16:00:57-04:00",
     "input_file": "tidytuesdays-with-x-men.utf8.md",
     "preview_width": 1248,
     "preview_height": 768
