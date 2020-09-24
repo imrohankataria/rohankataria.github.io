@@ -18,4 +18,5 @@
 
 ### I am Rohan Kataira
 - AutoML & Data Science enthusiast.
-- An Analytics Professional. 
+- An Analytics Professional.
+- Writing my interests at <a href="https://rohankataria.com">rohankataria.com</a>
